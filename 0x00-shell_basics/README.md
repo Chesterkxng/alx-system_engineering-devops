@@ -16,3 +16,5 @@
 : a script that move a file from a directory to another
 8-firstdelete
 : a script that delete a file that located in another directory
+9-firstdirdeletion
+: a script that delete a directory
