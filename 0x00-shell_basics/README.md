@@ -21,4 +21,8 @@
 10-back
 : a script that changes a directory to a previous one
 11-lists
-: a script a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+: a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+12-file-type
+: a script that prints the type of a file
+13-symbolic-link 
+: a script to create a symbolic link
