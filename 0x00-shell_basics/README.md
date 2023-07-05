@@ -8,3 +8,5 @@
 : a script that display current directory contents in a long format
 4-listmorefiles
 : a script that display current directory contents, including hidden files(starting with.)
+5-listfilesdigitonly
+: a script that display directory contents (long format, user and group IDs displayed numerically and hidden files)
