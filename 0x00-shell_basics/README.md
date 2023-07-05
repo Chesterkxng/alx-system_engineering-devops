@@ -14,3 +14,5 @@
 : a script that create a directory
 7-movethatfile
 : a script that move a file from a directory to another
+8-firstdelete
+: a script that delete a file that located in another directory
