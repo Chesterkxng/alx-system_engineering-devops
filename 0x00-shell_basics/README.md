@@ -10,3 +10,5 @@
 : a script that display current directory contents, including hidden files(starting with.)
 5-listfilesdigitonly
 : a script that display directory contents (long format, user and group IDs displayed numerically and hidden files)
+6-firstdirectory
+: a script that create a directory in another directory
