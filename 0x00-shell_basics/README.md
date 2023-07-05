@@ -11,4 +11,6 @@
 5-listfilesdigitonly
 : a script that display directory contents (long format, user and group IDs displayed numerically and hidden files)
 6-firstdirectory
-: a script that create a directory in another directory
+: a script that create a directory
+7-movethatfile
+: a script that move a file from a directory to another
