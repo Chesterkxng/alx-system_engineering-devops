@@ -28,3 +28,5 @@
 : a script that changes owner and group owner 
 101-symbolic-link-permissions
 : a script that changes owner and a group owner of a symbolic link 
+102-if-only
+: a script that changes owners on conditions
