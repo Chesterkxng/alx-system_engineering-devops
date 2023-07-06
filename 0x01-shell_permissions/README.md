@@ -10,3 +10,6 @@
 : a script that creates an empty file
 5-execute
 : a script that add execute permi to the owner of a file
+6-multiple-permissions
+: a script that adds multiples permissions
+
