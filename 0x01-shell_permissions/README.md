@@ -6,3 +6,5 @@
 : a script that prints all the groups the current user is part of
 3-new-owner 
 : a script that changes the owner of a file
+4-empty
+: a script that creates an empty file 
