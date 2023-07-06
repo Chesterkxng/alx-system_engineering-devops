@@ -30,3 +30,5 @@
 : a script that copies alle html files from curent working directory to his parent
 100-lets-move
 : a scripty that moves all files begenning with an uppercase to another directory
+101-cleans-emacs
+: a script that deletes all files in the current working directory that end with "~"
