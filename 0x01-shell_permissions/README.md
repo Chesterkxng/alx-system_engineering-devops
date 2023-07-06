@@ -14,5 +14,5 @@
 : a script that adds multiples permissions
 7-everybody
 : a script that adds permissions to everybody
-8-James-bond
+8-James-bond , 9-John-Doe
 : a script that update permissiosn of a file
