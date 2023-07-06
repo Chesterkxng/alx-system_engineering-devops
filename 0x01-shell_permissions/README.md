@@ -26,3 +26,5 @@
 : a script that changes group owner of a file
 100-change-owner-and-group
 : a script that changes owner and group owner 
+101-symbolic-link-permissions
+: a script that changes owner and a group owner of a symbolic link 
