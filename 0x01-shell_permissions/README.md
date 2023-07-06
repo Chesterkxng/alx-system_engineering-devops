@@ -20,3 +20,5 @@
 : copy file permission from a file to another
 11-directories-permissions
 : a script that adds execute permission to all subdirectories of the current directory
+12-more-directories
+: create a specific dir with defined permissions
