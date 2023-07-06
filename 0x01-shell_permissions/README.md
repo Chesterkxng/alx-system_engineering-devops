@@ -12,4 +12,5 @@
 : a script that add execute permi to the owner of a file
 6-multiple-permissions
 : a script that adds multiples permissions
-
+7-everybody
+: a script that adds permissions to everybody
