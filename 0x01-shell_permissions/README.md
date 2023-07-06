@@ -24,3 +24,5 @@
 : a script thats creates a specific dir with defined permissions
 13-change group 
 : a script that changes group owner of a file
+100-change-owner-and-group
+: a script that changes owner and group owner 
