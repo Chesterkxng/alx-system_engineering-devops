@@ -18,3 +18,5 @@
 : a script that update permissiosn of a file
 10-look-in-the-mirror
 : copy file permission from a file to another
+11-directories-permissions
+: a script that adds execute permission to all subdirectories of the current directory
