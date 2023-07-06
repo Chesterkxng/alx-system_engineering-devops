@@ -21,4 +21,6 @@
 11-directories-permissions
 : a script that adds execute permission to all subdirectories of the current directory
 12-more-directories
-: create a specific dir with defined permissions
+: a script thats creates a specific dir with defined permissions
+13-change group 
+: a script that changes group owner of a file
