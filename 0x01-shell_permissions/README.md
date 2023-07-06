@@ -9,10 +9,12 @@
 4-empty
 : a script that creates an empty file
 5-execute
-: a script that add execute permi to the owner of a file
+: a script that add execute permission to the owner of a file
 6-multiple-permissions
 : a script that adds multiples permissions
 7-everybody
 : a script that adds permissions to everybody
 8-James-bond , 9-John-Doe
 : a script that update permissiosn of a file
+10-look-in-the-mirror
+: copy file permission from a file to another
