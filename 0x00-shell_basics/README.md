@@ -36,3 +36,5 @@
 : a script that creates directories and subdirectories
 103-commas 
 : a script that sort results of a "ls command"
+school.mgc : 
+reate a magic file school.mgc that can be used with the command file to detect School data files. 
