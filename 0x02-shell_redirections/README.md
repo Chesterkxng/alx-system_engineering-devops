@@ -8,3 +8,5 @@
 : a script that display 2 files wich are in specific directories
 4-lastlines
 : a script that display the last lines of a files
+5-firstlines
+: a script that display the first lines of a file
