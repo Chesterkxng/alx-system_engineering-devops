@@ -2,3 +2,5 @@
 : a script that prints “Hello, World”, followed by a new line to the standard output.
 1-confused-smiley
 : a script that display a certain smiley (escape special character).
+2-hellofile
+: a script that display a file wich is i another directory
