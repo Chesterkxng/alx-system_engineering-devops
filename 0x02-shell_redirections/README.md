@@ -16,3 +16,5 @@
 : a script that creates a file with a special name (full of special characters)
 8-cwd-state
 : a script that saves the result of a commande in a file
+9-duplicate-last-line
+: a script that duplicate the last line of a file
