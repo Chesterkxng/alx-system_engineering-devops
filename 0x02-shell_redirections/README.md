@@ -12,3 +12,5 @@
 : a script that display the first lines of a file
 6- third lines 
 : a script that display the third line of a line
+7-file
+: a script that creates a file with a special name (full of special characters)
