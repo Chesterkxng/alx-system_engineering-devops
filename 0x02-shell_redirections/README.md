@@ -18,3 +18,5 @@
 : a script that saves the result of a commande in a file
 9-duplicate-last-line
 : a script that duplicate the last line of a file
+10-no-more-js 
+: a script that deletes files (directory and subfolder) with specific extensions
