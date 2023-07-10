@@ -14,3 +14,5 @@
 : a script that display the third line of a line
 7-file
 : a script that creates a file with a special name (full of special characters)
+8-cwd-state
+: a script that saves the result of a commande in a file
