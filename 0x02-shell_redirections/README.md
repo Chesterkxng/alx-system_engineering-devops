@@ -10,3 +10,5 @@
 : a script that display the last lines of a files
 5-firstlines
 : a script that display the first lines of a file
+6- third lines 
+: a script that display the third line of a line
