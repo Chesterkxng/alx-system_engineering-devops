@@ -3,4 +3,6 @@
 1-confused-smiley
 : a script that display a certain smiley (escape special character).
 2-hellofile
-: a script that display a file wich is i another directory
+: a script that display a file wich is in another directory
+3-twofiles
+: a script that display 2 files wich are in differents directories
