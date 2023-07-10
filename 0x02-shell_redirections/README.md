@@ -5,4 +5,6 @@
 2-hellofile
 : a script that display a file wich is in another directory
 3-twofiles
-: a script that display 2 files wich are in differents directories
+: a script that display 2 files wich are in specific directories
+4-lastlines
+: a script that display the last lines of a files
