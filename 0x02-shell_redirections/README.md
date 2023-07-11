@@ -24,5 +24,7 @@
 : a script that counts all  directories and subdirectories  of a directorty 
 12-newest-files
 : a script that display le 10 newest files in a directory
-12-unique 
+13-unique 
 : a script that a list of words as input and prints only words that appear exactly once.
+14-findthatword
+: a script that displays containing a pattern from a file
