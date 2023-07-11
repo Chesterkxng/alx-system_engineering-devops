@@ -40,3 +40,5 @@
 : a script that replaces A by Z anc c by e
 20-hiago 
 a script that removes specific letters 
+21-Reverse
+: a script that reverse its input.
