@@ -10,3 +10,5 @@
 : create a script that lists environment variables
 5-local-variables
 : Create a script that lists all local variables and environment variables, and functions.
+6-local-variable
+Create a script that creates a new local variable.
