@@ -22,3 +22,5 @@ Write a script that prints the result of POWER divided by DIVIDE, followed by a 
 : Write a script that displays the result of BREATH to the power LOVE
 11-Binary-to-decimal 
 : convert a numeber from base 2 to 10
+12-combination
+: a script that make a combination of characters
