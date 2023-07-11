@@ -22,3 +22,5 @@
 : a script that deletes files (directory and subfolder) with specific extensions
 11-directories
 : a script that counts all  directories and subdirectories  of a directorty 
+12-newest-files
+: a script that display le 10 newest files in a directory
