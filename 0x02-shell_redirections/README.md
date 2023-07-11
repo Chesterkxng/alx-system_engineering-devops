@@ -30,3 +30,5 @@
 : a script that displays containing a pattern from a file
 15-countthatword
 : a script that displays the number of lines that contain a pattern from a file
+16-whatsnext
+: a script that Display lines containing a pattern  and 3 lines after them in the file
