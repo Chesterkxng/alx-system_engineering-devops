@@ -6,3 +6,5 @@
 : a script that add a directory at the bottom of a direcotry tree
 3-paths
 : a script that counts the number of directories in the path
+4-global-variables
+: create a script that lists environment variables
