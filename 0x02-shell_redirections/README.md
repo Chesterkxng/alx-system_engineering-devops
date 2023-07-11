@@ -34,3 +34,5 @@
 : a script that Display lines containing a pattern  and 3 lines after them in the file
 17-hidethisword
 : Display all the lines in a file that do not contain a pattern
+18-letteronly
+: a script that displays all the line startinf with a letter
