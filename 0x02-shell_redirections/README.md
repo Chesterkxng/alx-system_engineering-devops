@@ -38,3 +38,5 @@
 : a script that displays all the line startinf with a letter
 19-AZ
 : a script that replaces A by Z anc c by e
+20-hiago 
+a script that removes specific letters 
