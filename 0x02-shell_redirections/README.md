@@ -28,3 +28,5 @@
 : a script that a list of words as input and prints only words that appear exactly once.
 14-findthatword
 : a script that displays containing a pattern from a file
+15-countthatword
+: a script that displays the number of lines that contain a pattern from a file
