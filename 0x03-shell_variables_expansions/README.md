@@ -8,3 +8,5 @@
 : a script that counts the number of directories in the path
 4-global-variables
 : create a script that lists environment variables
+5-local-variables
+: Create a script that lists all local variables and environment variables, and functions.
