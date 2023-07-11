@@ -36,3 +36,5 @@
 : Display all the lines in a file that do not contain a pattern
 18-letteronly
 : a script that displays all the line startinf with a letter
+19-AZ
+: a script that replaces A by Z anc c by e
