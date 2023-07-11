@@ -20,3 +20,5 @@
 : a script that duplicate the last line of a file
 10-no-more-js 
 : a script that deletes files (directory and subfolder) with specific extensions
+11-directories
+: a script that counts all  directories and subdirectories  of a directorty 
