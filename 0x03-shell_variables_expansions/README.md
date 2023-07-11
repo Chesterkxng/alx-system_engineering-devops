@@ -4,3 +4,5 @@
 : a script that prints a message to the current user
 2-path
 : a script that add a directory at the bottom of a direcotry tree
+3-paths
+: a script that counts the number of directories in the path
