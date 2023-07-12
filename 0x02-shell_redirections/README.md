@@ -43,6 +43,8 @@ a script that removes specific letters
 21-Reverse
 : a script that reverse its input.
 22-users-and-homes
-Write a script that displays all users and their home directories, sorted by users.
+: Write a script that displays all users and their home directories, sorted by users.
 100-empty-casks
-Write a command that finds all empty files and directories in the current directory and all sub-directories.
+: Write a command that finds all empty files and directories in the current directory and all sub-directories.
+101-gifs 
+: Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
