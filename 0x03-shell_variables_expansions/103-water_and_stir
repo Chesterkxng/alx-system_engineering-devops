@@ -1,2 +1,2 @@
 #!/bin/bash
-export BESTSCHOOL=$(($WATER + $STRIR))
+export BESTSCHOOL=$(($WATER + $STIR))
