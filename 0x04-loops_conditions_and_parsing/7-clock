@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# This script is displaying 0 to 20 with edges cases
+h=0
+while [ "$h" -lt 13 ]; do
+    echo "Hour: $h"
+    min=1
+    while [ "$min" -lt 60 ]; do
+	echo "$min"
+	min=$((min+1))
+    done
+    h=$((h+1))
+done
