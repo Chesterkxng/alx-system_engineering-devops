@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#this script is use to kill a task
+pkill -f -SIGKILL "7-highlander"
