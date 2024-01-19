@@ -1,7 +1,8 @@
 # 2-execute_a_command.pp
 
-exec { 'killmenow':
-  command     => '/usr/bin/pkill -f killmenow',
-  path        => ['/bin', '/usr/bin'],
-  onlyif      => '/usr/bin/pgrep -f killmenow',
+exec { 'kill':
+  command   => 'pkill -f killmenow',
+  path      => ['/usr/bin', '/usr/sbin'],
+  returns   => ['0', '1'],
+  logoutput => true,
 }
