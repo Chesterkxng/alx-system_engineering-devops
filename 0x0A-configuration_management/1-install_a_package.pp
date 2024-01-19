@@ -13,6 +13,6 @@ package { 'Flask':
 
 # Install a compatible version of Werkzeug
 package { 'Werkzeug':
-  ensure   => 'X.X.X',
+  ensure   => '2.1.1',
   provider => 'pip3',
 }
