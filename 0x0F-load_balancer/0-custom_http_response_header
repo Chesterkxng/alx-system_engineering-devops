@@ -1,12 +1,29 @@
 #!/usr/bin/env bash
-# configure the servers
+# configure entirely the server
 
-sudo apt-get -y update
-sudo apt-get -y install nginx
-sudo echo "Hello World!" | sudo tee /var/www/html/index.html > /dev/null
-sudo sed -i "46i rewrite ^/redirect_me https://www.youtube.com/watch?v=QH2-TGUlwu4 permanent;" /etc/nginx/sites-available/default
-sudo echo "Ceci n'est pas une page" | sudo tee /var/www/html/my_404.html > /dev/null
-sudo sed -i "52i error_page 404 /my_404.html;" /etc/nginx/sites-available/default
-sudo sed -i "/server_name _/a add_header X-Served-By $HOSTNAME;" /etc/nginx/sites-available/default
-sudo nginx -t
-sudo service nginx restart
+apt-get update
+apt-get install -y nginx
+
+mkdir -p /var/www/html
+touch /var/www/html/index.html
+echo "Hello World" > /var/www/html/index.html
+touch /var/www/html/404.html
+echo "Ceci n'est pas une page" > /var/www/html/404.html
+
+printf %s "server {
+    listen 80 default_server;
+    listen [::]:80 default_server;
+    add_header X-Served-By $HOSTNAME;
+    root   /var/www/html;
+    index  index.html index.htm;
+
+    location /redirect_me {
+        return 301 http://cuberule.com/;
+    }
+
+    error_page 404 /404.html;
+    location /404 {
+      root /var/www/html;
+      internal;
+    }
+}" > /etc/nginx/sites-available/default
