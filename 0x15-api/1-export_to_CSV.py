@@ -3,9 +3,9 @@
 using this REST API, for a given user ID
 returns information about his/her TODO list progress.
 """
+import csv
 import requests
 import sys
-import csv
 
 if __name__ == "__main__":
     # Accept the user Id from the command line arguments
