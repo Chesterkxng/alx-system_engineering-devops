@@ -30,7 +30,6 @@ All of the following folders are projects done during the studies:
 | [`0x14-mysql`](./0x14-mysql) | This aims to learn how to incorporate the use of MySQL in this module |
 | [`0x15-api`](./0x15-api) | This aims to learn how to incorporate the use of api in this module  |
 | [`Command Line For The Win`](./command_line_for_the_win) |  This aims to gain mastery of command line commands across different difficulties |
-| [`Attack Is The Best Defense`](./attack_is_the_best_defense) | ..  |
 
 ## Author :
 * **[GOITA CHEICK](https://twitter.com/chester_kg)** <[Chesterking](https://github.com/Chesterkxng)>
